@@ -1,2 +1,2 @@
 # icms-smartcalc
-Aplicação em Python para cálculo automatizado de ICMS, com geração de relatórios estruturados via openpyxl.
+Calculadora automatizada de ICMS com exportação para Excel usando openpyxl, criada para auxiliar empresas e profissionais no cálculo tributário.
